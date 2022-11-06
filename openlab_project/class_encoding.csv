@@ -1,0 +1,15 @@
+﻿class_num,encoding_name,car_person,cityscapes
+0,car,세단,car
+0,car,SUV/승합차,car
+0,car,경찰차,car
+0,car,구급차,car
+0,car,소방차,car
+1,truck,트럭,truck
+2,bus,버스,bus
+2,bus,"통학버스(소형,대형)",bus
+3,other_vehicles,"기타특장차(견인차, 쓰레기차, 크레인 등)",caravan
+3,other_vehicles,"기타특장차(견인차, 쓰레기차, 크레인 등)",trailer
+4,person,성인(노인포함),person
+4,person,어린이,person
+5,bicycle,자전거,bicycle
+6,mortorcycle,오토바이,mortorcycle
