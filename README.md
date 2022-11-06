@@ -8,7 +8,7 @@
 # BibTex
 ```
 @misc{
-  author={Shin Yoonsig, Jung Miyeon, Lee Jungwoo},
+  author={Shin Yoonsig, Jeong Miyeon, Lee Jungwoo},
   title={Sampling Method to Maximize Diversity and Minimize Bias in Image Dataset for Deep Learning},
   year={2022}
 }

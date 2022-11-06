@@ -1,9 +1,9 @@
 from pathlib import Path
 
 
-ROOT_AIHUB = Path('D:/dynamic_object_recognition/차량 및 사람 인지 영상') # AIHUB 데이터셋 경로
-ROOT_CITYSCAPES = Path('D:/datasets/cityscapes') # cityscapes 데이터셋 경로
-ROOT_ARTIFACTS = Path('../artifacts') # figre 저장 경로
+ROOT_AIHUB = Path('./차량 및 사람 인지 영상') # AIHUB 데이터셋 경로
+ROOT_CITYSCAPES = Path('./cityscapes') # cityscapes 데이터셋 경로
+ROOT_ARTIFACTS = Path('./artifacts') # figre 저장 경로
 
 ROOT_TRAIN = ROOT_AIHUB / 'Training' / '바운딩박스'
 ROOT_VALID = ROOT_AIHUB / 'Validation' / '바운딩박스'
